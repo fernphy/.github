@@ -12,6 +12,8 @@ For more information about the project, see our homepage: https://fernphy.github
 
 - [ftol](https://github.com/fernphy/ftol): The pipeline to build FTOL.
 
+- [ftol_data](https://github.com/fernphy/ftol_data): FTOL and associated datasets (output of the pipeline).
+
 - [ftolr](https://github.com/fernphy/ftolr): R package to enable easy loading of FTOL and associated datasets into R.
 
 - [ftol_ms](https://github.com/fernphy/ftol_ms): Code to generate the manuscript describing FTOL.
