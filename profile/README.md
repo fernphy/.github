@@ -18,6 +18,8 @@ For more information about the project, see our homepage: https://fernphy.github
 
 - [ftol_ms](https://github.com/fernphy/ftol_ms): Code to generate the manuscript describing FTOL.
 
+- [ftol_shiny](https://github.com/fernphy/ftol_shiny): Code to make shiny apps serving FTOL.
+
 - [fernphy.github.io](https://github.com/fernphy/fernphy.github.io): Our homepage.
 
 - [ferncal](https://github.com/fernphy/ferncal): A database of fern fossils for molecular dating of FTOL.
